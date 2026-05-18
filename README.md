@@ -33,18 +33,6 @@ Plataforma educacional desenvolvida para ensino de matemática utilizando gamifi
 
 Criar uma plataforma moderna e acessível para transformar o aprendizado da matemática em algo mais intuitivo, gamificado e eficiente.
 
----
-
-## 📸 Screenshots
-
-### Home
-![Home](screenshots/home.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Cursos
-![Cursos](screenshots/cursos.png)
 
 ---
 
