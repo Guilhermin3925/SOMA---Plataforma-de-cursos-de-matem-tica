@@ -1,2 +1,66 @@
-# SOMA---Plataforma-de-cursos-de-matem-tica
-Plataforma educacional gamificada desenvolvida com Python e Flask para ensino de matemática.
+# SOMA+ 📚
+
+Plataforma educacional desenvolvida para ensino de matemática utilizando gamificação, progresso inteligente e trilhas personalizadas de aprendizado.
+
+## 🚀 Tecnologias Utilizadas
+
+- Python
+- Flask
+- HTML
+- Tailwind CSS
+- SQLite
+- APIs REST
+- Sistema de autenticação
+- Integração com pagamentos
+
+---
+
+## ✨ Funcionalidades
+
+- Sistema de login e cadastro
+- Dashboard do aluno
+- Gamificação com XP e conquistas
+- Cursos organizados por níveis
+- Teste diagnóstico inteligente
+- Sistema de suporte
+- Painel administrativo
+- Integração com Mercado Pago
+- Progresso do aluno em tempo real
+
+---
+
+## 🎯 Objetivo
+
+Criar uma plataforma moderna e acessível para transformar o aprendizado da matemática em algo mais intuitivo, gamificado e eficiente.
+
+---
+
+## 📸 Screenshots
+
+### Home
+![Home](screenshots/home.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Cursos
+![Cursos](screenshots/cursos.png)
+
+---
+
+## ⚙️ Como Executar
+
+```bash
+pip install -r requirements.txt
+python app.py
+```
+
+---
+
+## 👨‍💻 Desenvolvedor
+
+Guilherme Alves Marques
+
+- Desenvolvedor Full Stack em aprendizado
+- Interesse em tecnologia e educação
+- Criador do projeto SOMA+
